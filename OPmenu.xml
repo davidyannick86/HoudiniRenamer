@@ -1,0 +1,8 @@
+<menuDocument>
+    <menu>
+    	<scriptItem>
+        	<label>Rename</label>
+            <scriptPath>$RENAMER/scripts/live_renamer.py</scriptPath>
+		</scriptItem>
+	</menu>
+</menuDocument>
